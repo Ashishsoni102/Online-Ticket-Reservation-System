@@ -25,7 +25,11 @@
 # Content of Online Ticket Reservation System :-
 
 > Admin Login/Logout
+  
 > Reservation
+
 > Confirm Reservation
+
 > Cancel Reservation
+
 > List All Confirmed/Paid Reservation
