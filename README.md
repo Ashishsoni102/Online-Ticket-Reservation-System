@@ -3,7 +3,8 @@
 >	The main objective of the Project on Ticket Reservation System is to manage the details of Train, Ticket, Booking, Passenger, Train Schedule. It manages all the information about Train, Train Route, Train Schedule, Train. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Train, Ticket, Train Route, Booking. It tracks all the details about the Booking, Passenger, Train Schedule.
 
 # Languages Used:-
-- HTML
+
+-HTML
  
 -CSS
 
